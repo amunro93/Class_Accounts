@@ -15,7 +15,7 @@ Loren L. | [llemarr42](https://github.com/llemarr42) | I like playing board game
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
 Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
 Ari M.  | [amilste16](https://github.com/amilste16) | I have a frog collection :frog:
-
+Angus M. | [amunro93](https://github.com/amunro93)  | I like playing baskestball :basketball: 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
 --- | --- | ---
